@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+table tr {
+    border-bottom: 1px solid rgb(202, 201, 201);
+}
+
+table tr td {
+    padding: 10px 60px 5px 0;
+    font-weight: bold;
+    font-size: 18px;
+}
